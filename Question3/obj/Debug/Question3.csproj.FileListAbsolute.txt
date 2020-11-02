@@ -1,0 +1,7 @@
+C:\Users\okon\source\repos\Question3\Question3\bin\Debug\Question3.exe.config
+C:\Users\okon\source\repos\Question3\Question3\bin\Debug\Question3.exe
+C:\Users\okon\source\repos\Question3\Question3\bin\Debug\Question3.pdb
+C:\Users\okon\source\repos\Question3\Question3\obj\Debug\Question3.csproj.CoreCompileInputs.cache
+C:\Users\okon\source\repos\Question3\Question3\obj\Debug\Question3.exe
+C:\Users\okon\source\repos\Question3\Question3\obj\Debug\Question3.pdb
+C:\Users\okon\source\repos\Question3\Question3\obj\Debug\Question3.csprojAssemblyReference.cache
